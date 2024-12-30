@@ -1,4 +1,4 @@
-### 🔗 Related accounts
+ ### 🔗 Related accounts
 
 * AlpineLinux: https://gitlab.alpinelinux.org/Biswa96/
 * ArchLinux: https://gitlab.archlinux.org/biswa96/
